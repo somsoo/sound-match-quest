@@ -1,0 +1,8 @@
+{
+  "name": "사운드-그림 청각 매칭 퀘스트",
+  "short_name": "사운드퀘스트",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ea580c"
+}
